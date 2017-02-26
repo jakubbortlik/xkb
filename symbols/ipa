@@ -8,7 +8,8 @@ xkb_symbols "basic" {
     // compatible fonts
 
     include "latin"
-    name[Group1]= "IPA (International Phonetic Alphabet)";
+//    name[Group1]= "IPA (International Phonetic Alphabet)";
+    name[Group1]= "Filipino";
 
     key <TLDE>	{ [     U02DE,      U031A,        U01C0,   asciitilde ]	};
     key <AE01>	{ [     U0268,      U01C3,        U0274,   dead_tilde ]	};
