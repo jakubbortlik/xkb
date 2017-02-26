@@ -20,7 +20,8 @@ default  partial alphanumeric_keys modifier_keys
 partial alphanumeric_keys
 xkb_symbols "basic" {
 
-    name[Group1]= "English (US - Alternative AltGr mappings)";
+//    name[Group1]= "English (US - Alternative AltGr mappings)";
+    name[Group1]= "English (US)";
 
     key <TLDE> { [     grave, asciitilde,    dead_grave,       dead_tilde ] };
     key <AE01> { [	   1,     exclam,    exclamdown,      onesuperior ] };
