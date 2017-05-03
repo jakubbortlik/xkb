@@ -55,7 +55,7 @@ xkb_symbols "basic" {
     key <AC03> { [	   d,          D,           eth,              ETH ] };
     key <AC04> { [	   f,          F,         U03C6,            U03A6 ] };
     key <AC05> { [	   g,          G,         U0261,                G ] };
-    key <AC06> { [	   h,          H,             h,                H ] };
+    key <AC06> { [	   h,          H,             ʰ,                H ] };
     key <AC07> { [	   j,          J,        oslash,         Ooblique ] };
     key <AC08> { [	   k,          K,            oe,               OE ] };
 
