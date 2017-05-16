@@ -27,14 +27,14 @@ xkb_symbols "basic" {
 
     key <AD01>	{ [         q,      U0252,        U031D,     NoSymbol ]	};
     key <AD02>	{ [         w,      U028D,        U02B7,     Nosymbol ]	};
-    key <AD03>	{ [         e,      U025B,        U0258,     NoSymbol ]	};
+    key <AD03>	{ [         e,      U025B,        U0258,        U025D ]	};
     key <AD04>	{ [         r,      U0281,        U0280,     NoSymbol ]	};
-    key <AD05>	{ [         t,      U03B8,        U0288,     NoSymbol ]	};
+    key <AD05>	{ [         t,      U03B8,        U0288,        U1D57 ]	};
     key <AD06>	{ [         y,      U028F,        U031E,     NoSymbol ]	};
     key <AD07>	{ [         u,      U028A,        U0266,     NoSymbol ]	};
     key <AD08>	{ [         i,      U026A,        U031F,     NoSymbol ]	};
     key <AD09>	{ [         o,      U0254,        U0298,     NoSymbol ]	};
-    key <AD10>	{ [         p,      U028B,        U0278,     NoSymbol ]	};
+    key <AD10>	{ [         p,      U028B,        U0278,        U1D56 ]	};
 
     key <AD11>	{ [bracketleft,     U00E6,        U0257,     division ]	};
     key <AD12>	{ [bracketright,    U0289,        U032A,     multiply ]	};
@@ -42,12 +42,12 @@ xkb_symbols "basic" {
     key <AC01>	{ [         a,      U0251,        U0320,     NoSymbol ]	};
     key <AC02>	{ [         s,      U0283,        U0282,        U02E2 ]	};
     key <AC03>	{ [         d,      U00F0,        U0256,        U1DB4 ]	};
-    key <AC04>	{ [         f,      U0271,        U025F,     NoSymbol ]	};
-    key <AC05>	{ [     U0261,      U0263,        U0262,     NoSymbol ]	};
+    key <AC04>	{ [         f,      U0271,        U025F,        U1DBE ]	};
+    key <AC05>	{ [     U0261,      U0263,        U0262,        U1D51 ]	};
     key <AC06>	{ [         h,      U0265,        U02B0,     NoSymbol ]	};
     key <AC07>	{ [         j,      U0272,        U029D,     NoSymbol ]	};
     key <AC08>	{ [         k,      U026C,        U026E,     NoSymbol ]	};
-    key <AC09>	{ [         l,      U028E,        U026D,     NoSymbol ]	};
+    key <AC09>	{ [         l,      U028E,        U026D,        U02E1 ]	};
 
     key <AC10>	{ [ semicolon,      U02D0,        U0308,     NoSymbol ]	};
     key <AC11>	{ [     U02B2,      U0259,        U025A,       ssharp ]	};
