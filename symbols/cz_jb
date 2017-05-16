@@ -17,8 +17,8 @@ xkb_symbols "basic" {
     key <AE06>  { [    zcaron,          6,  asciicircum,  dead_ogonek ] };
     key <AE07>  { [    yacute,          7,    ampersand,   dead_grave ] };
     key <AE08>  { [    aacute,          8,     asterisk, dead_abovedot] };
-    key <AE09>  { [    iacute,          9, singlelowquotemark,   dead_acute ]};
-    key <AE10>  { [    eacute,          0, leftsinglequotemark, dead_doubleacute ] };
+    key <AE09>  { [    iacute,          9, singlelowquotemark, doublelowquotemark ]};
+    key <AE10>  { [    eacute,          0, leftsinglequotemark, leftdoublequotemark ] };
     key <AE11>  { [     equal,    percent,     NoSymbol, dead_diaeresis]};
     key <AE12>  { [dead_acute, dead_caron,  dead_macron, dead_cedilla ] };
 
