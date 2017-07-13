@@ -55,10 +55,9 @@ xkb_symbols "basic" {
     key <AC03> { [	   d,          D,           eth,              ETH ] };
     key <AC04> { [	   f,          F,         U03C6,            U03A6 ] };
     key <AC05> { [	   g,          G,         U0261,                G ] };
-    key <AC06> { [	   h,          H,             ʰ,                H ] };
+    key <AC06> { [	   h,          H,         U02b0,                H ] };
     key <AC07> { [	   j,          J,        oslash,         Ooblique ] };
     key <AC08> { [	   k,          K,            oe,               OE ] };
-
     key <AC09> { [	   l,          L,       lstroke,          Lstroke ] };
     key <AC10> { [ semicolon,      colon,     paragraph,           degree ] };
     key <AC11> { [apostrophe,   quotedbl,    dead_acute,   dead_diaeresis ] };
