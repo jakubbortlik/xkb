@@ -31,7 +31,7 @@ xkb_symbols "basic" {
     key <AD04>	{ [         r,      U0281,        U0280,     NoSymbol ]	};
     key <AD05>	{ [         t,      U03B8,        U0288,        U1D57 ]	};
     key <AD06>	{ [         y,      U028F,        U031E,     NoSymbol ]	};
-    key <AD07>	{ [         u,      U028A,        U0266,     NoSymbol ]	};
+    key <AD07>	{ [         u,      U028A,        U0266,        U203F ]	};
     key <AD08>	{ [         i,      U026A,        U031F,     NoSymbol ]	};
     key <AD09>	{ [         o,      U0254,        U0298,     NoSymbol ]	};
     key <AD10>	{ [         p,      U028B,        U0278,        U1D56 ]	};
