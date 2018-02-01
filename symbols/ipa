@@ -12,14 +12,14 @@ xkb_symbols "basic" {
     name[Group1]= "Filipino";
 
     key <TLDE>	{ [     U02DE,      U031A,        U01C0,   asciitilde ]	};
-    key <AE01>	{ [     U0268,      U01C3,        U0274,   dead_tilde ]	};
+    key <AE01>	{ [     U0268,      U01C3,        U0274,        U032C ]	};
     key <AE02>	{ [     U00F8,      U02C8,        U01C1,   dead_caron ]	};
     key <AE03>	{ [     U025C,      U0279,        U027B, dead_circumflex ] };
-    key <AE04>	{ [     U027E,      U2016,        U027D,   dead_breve ]	};
-    key <AE05>	{ [     U026B,      U02CC,        U029F, dead_abovering ] };
-    key <AE06>	{ [     U0250,      U032F,        U0253,  dead_ogonek ]	};
+    key <AE04>	{ [     U027E,      U2016,        U027D,        U031C ]	};
+    key <AE05>	{ [     U026B,      U02CC,        U029F,        U0339 ]	};
+    key <AE06>	{ [     U0250,      U032F,        U0253,        U0304 ]	};
     key <AE07>	{ [     U0264,      U0276,        U02E0,   dead_grave ]	};
-    key <AE08>	{ [     U0275,      U002A,        U025E, dead_abovedot]	};
+    key <AE08>	{ [     U0275,      U002A,        U025E,        U030F ]	};
     key <AE09>	{ [     U0153,      U0028,        U0260,   dead_acute ]	};
     key <AE10>	{ [     U0325,      U0029,        U030A, dead_doubleacute ] };
     key <AE11>	{ [     U002D,      U035C,        U0361, dead_diaeresis ] };
